@@ -1,0 +1,26 @@
+function Aboutpage() {
+    console.log("Hello I visited about page ")
+  return (
+    <div>
+      About page
+    </div>
+  )
+}
+
+server side rendering this cconsole will got go on frontend , it will be on backend and at server 
+so managing database from the backend becomes easy 
+
+
+clerk will be used for authentication
+
+
+shadcn ui for different beautiful visual components 
+
+postgres for databasse ;
+
+
+clerk and postgress syncing -> How to linked them up 
+clerk user in postgres user 
+
+
+upload thing is used for the uploading the image  
