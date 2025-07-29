@@ -1,4 +1,4 @@
-export const dynamic = "force-dynamic";
+
 
 import { getProfileByUsername, getUserLikedPosts, getUserPosts, isFollowing } from '@/actions/profile.action';
 import { notFound } from 'next/navigation';
